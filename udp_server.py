@@ -1,3 +1,5 @@
+#!/usr/bin/python2
+
 # This python script listens on UDP port 3333 
 # for messages from the ESP32 board and prints them
 import socket
